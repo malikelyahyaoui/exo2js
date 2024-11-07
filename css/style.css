@@ -1,0 +1,47 @@
+.carre-haut{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.carre1{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+}
+
+.carre2{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+}
+
+.carre3{
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+}
+
+.carre4{
+    background-color: coral;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+}
+
+.carre-bas{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
+}
+
+.carrebas{
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;  
+}
